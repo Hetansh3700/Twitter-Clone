@@ -19,8 +19,8 @@ Welcome login/signup page
 ![home page](Extra/Images/home_page_2.png)
 Home page
 
-![user page](Extra/Images/user_page.png)
-User account page
+## ![user page](Extra/Images/user_page.png)
+## User account page
 
 ## Database Schema
 
